@@ -5,13 +5,7 @@
 
 ---
 
-## 📂 דוגמאות קוד
-
-* [דוגמאות לשימוש ב-API של גוגל](examples-google-api)
-* [דוגמאות לשימוש ב-LangChain](examples-langchain)
-* [דוגמאות לשימוש ב-Streamlit](examples-streamlit)
-
-## 📖 תוכן העניינים
+##  תוכן העניינים
 
 1. [סביבות פיתוח מבוססות AI](#-סביבות-פיתוח-מבוססות-ai)
 2. [Frameworks & Libraries](#-frameworks--libraries)
@@ -35,6 +29,7 @@
 * סביבה פופולרית עם אקוסיסטם עשיר של תוספים
 * ה-Copilot מציע השלמות קוד חכמות מבוססות AI
 * חינמי לסטודנטים
+* [דוגמאות שימוש ב-Google API](examples-google-api) 📂
 
 ### הסביבה - [Windsurf](https://windsurf.com/)
 
@@ -50,12 +45,14 @@
 * בניית אפליקציות מורכבות עם מודלי שפה
 * תומך באינטגרציה עם מגוון מודלים תחת ממשק אחיד
 * מאפשר שימוש ב־Agents, Tools, Memory ועוד
+* [דוגמאות קוד ב-LangChain](examples-langchain) 📂
 
 ### ה - [Streamlit](https://streamlit.io/)
 
 * בניית ממשקים גרפיים לפיתוח אפליקציות AI
 * פיתוח מהיר ב־Python
 * תמיכה ב־Deployment בענן או מקומית
+* [דוגמאות לבניית ממשקים עם Streamlit](examples-streamlit) 📂
 
 ---
 
