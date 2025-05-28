@@ -1,4 +1,4 @@
-# For the Hebrew version of this document, see [README.he.md](README.he.md)
+> For the Hebrew version of this document, see [README.he.md](README.he.md)
 # 🧰 AI Tools – Hackathon Toolkit
 
 A comprehensive collection of AI-based development tools and environments – for developers, hackathon participants, and entrepreneurs who want to quickly start with LLM-based applications.
