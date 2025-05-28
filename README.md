@@ -1,80 +1,85 @@
-# 🧰 כלי AI – Hackathon Toolkit
+# For the Hebrew version of this document, see [README.he.md](README.he.md)
+# 🧰 AI Tools – Hackathon Toolkit
 
-מאגר מקיף של כלים וסביבות פיתוח מבוססי AI – למפתחים, משתתפי האקתונים ויזמים שרוצים להתחיל מהר עם אפליקציות מבוססות LLM.
+A comprehensive collection of AI-based development tools and environments – for developers, hackathon participants, and entrepreneurs who want to quickly start with LLM-based applications.
 
 ---
 
-## 📖 תוכן העניינים
+## 📖 Table of Contents
 
-1. [סביבות פיתוח מבוססות AI](#-סביבות-פיתוח-מבוססות-ai)
+1. [AI-Based Development Environments](#-ai-based-development-environments)
 2. [Frameworks & Libraries](#-frameworks--libraries)
-3. [כלים לפיתוח מהיר](#-כלים-לפיתוח-מהיר)
-4. [מודלים לוקאליים](#-מודלים-לוקאליים)
+3. [Rapid Development Tools](#-rapid-development-tools)
+4. [Local Models](#-local-models)
 
 ---
 
-## 💻 סביבות פיתוח מבוססות AI
+## 💻 AI-Based Development Environments
 
-### הסביבה - [Cursor](https://www.cursor.so/)
+### [Cursor](https://www.cursor.so/)
 
-* חינמית לסטודנטים 🎓
-* אינטגרציה עם כל מודלי השפה המובילים
-* סוכן LLM מתקדם עם יכולות Agentic
-* Auto Completion עוצמתי
-* חיבור ל-MCPs
+* Free for students 🎓
+* Integrates with all major language models
+* Advanced LLM agentic capabilities
+* Powerful auto-completion
+* Connects to MCPs
 
-### הסביבה - [Visual Studio Code](https://code.visualstudio.com/) + [GitHub Copilot](https://github.com/features/copilot)
+### [Visual Studio Code](https://code.visualstudio.com/) + [GitHub Copilot](https://github.com/features/copilot)
 
-* סביבה פופולרית עם אקוסיסטם עשיר של תוספים
-* ה-Copilot מציע השלמות קוד חכמות מבוססות AI
-* חינמי לסטודנטים
+* Popular environment with a rich ecosystem of extensions
+* Copilot provides smart AI-based code completions
+* Free for students
 
-### הסביבה - [Windsurf](https://windsurf.com/)
+### [Windsurf](https://windsurf.com/)
 
-* סוכן AI אינטראקטיבי בתוך IDE
-* מאפשר קידוד בעזרת הנחיות בשפה טבעית
-
----
-
-## ⚙️ כלים Frameworks & Libraries
-
-### ה - [LangChain](https://www.langchain.com/)
-
-* בניית אפליקציות מורכבות עם מודלי שפה
-* תומך באינטגרציה עם מגוון מודלים תחת ממשק אחיד
-* מאפשר שימוש ב־Agents, Tools, Memory ועוד
-
-### ה - [Streamlit](https://streamlit.io/)
-
-* בניית ממשקים גרפיים לפיתוח אפליקציות AI
-* פיתוח מהיר ב־Python
-* תמיכה ב־Deployment בענן או מקומית
+* Interactive AI agent inside the IDE
+* Enables coding with natural language instructions
 
 ---
 
-## 🚀 כלים לפיתוח מהיר
+## ⚙️ Frameworks & Libraries
 
-### ה - [Lovable](https://lovable.dev/)
+### [LangChain](https://www.langchain.com/)
 
-* בניית אפליקציות ואתרים בעזרת סוכן AI אישי (Full Stack)
+* Build complex applications with language models
+* Supports integration with various models under a unified interface
+* Enables use of agents, tools, memory, and more
 
-### ה - [Bolt.new](https://bolt.new/)
+### [Streamlit](https://streamlit.io/)
 
-* יצירת אפליקציות מבוססות AI במהירות
-* אפשרות להוריד את הקוד ולהמשיך בפיתוח מקומי
-
-### ה - [Bolt.new – Open Source](https://github.com/bolt/bolt)
-
-* גרסת קוד פתוח של Bolt.new
-* תומכת בשימוש במודלים מקומיים וב־API חופשי ללא מגבלות קרדיטים
+* Build graphical interfaces for AI applications
+* Rapid development in Python
+* Supports deployment in the cloud or locally
 
 ---
 
-## 🖥️ מודלים לוקאליים
+## 🚀 Rapid Development Tools
 
-### ה - [Ollama](https://ollama.com/)
+### [Lovable](https://lovable.dev/)
 
-* הרצת מודלי שפה מתקדמים באופן מקומי ללא אינטרנט
-* תמיכה במודלים כמו Llama3, DeepSeek, Mistral ועוד
-* שימוש ב־API ללא מגבלת קרדיטים
+* Build apps and websites with a personal AI agent (Full Stack)
+
+### [Bolt.new](https://bolt.new/)
+
+* Quickly create AI-based applications
+* Option to download the code and continue local development
+
+### [Bolt.new – Open Source](https://github.com/bolt/bolt)
+
+* Open source version of Bolt.new
+* Supports local models and free API usage without credit limits
+
+---
+
+## 🖥️ Local Models
+
+### [Ollama](https://ollama.com/)
+
+* Run advanced language models locally without internet
+* Supports models like Llama3, DeepSeek, Mistral, and more
+* Use API without credit limits
+
+---
+
+> For the Hebrew version of this document, see [README.he.md](README.he.md)
 
