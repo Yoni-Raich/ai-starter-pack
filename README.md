@@ -3,9 +3,10 @@
 
 A comprehensive collection of AI-based development tools and environments – for developers, hackathon participants, and entrepreneurs who want to quickly start with LLM-based applications.
 
+
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 1. [AI-Based Development Environments](#-ai-based-development-environments)
 2. [Frameworks & Libraries](#-frameworks--libraries)
@@ -29,6 +30,7 @@ A comprehensive collection of AI-based development tools and environments – fo
 * Popular environment with a rich ecosystem of extensions
 * Copilot provides smart AI-based code completions
 * Free for students
+* See [Google API examples](examples-google-api) for sample integrations
 
 ### [Windsurf](https://windsurf.com/)
 
@@ -44,12 +46,14 @@ A comprehensive collection of AI-based development tools and environments – fo
 * Build complex applications with language models
 * Supports integration with various models under a unified interface
 * Enables use of agents, tools, memory, and more
+> 📂 Check out our [LangChain examples](examples-langchain) for practical implementations
 
 ### [Streamlit](https://streamlit.io/)
 
 * Build graphical interfaces for AI applications
 * Rapid development in Python
 * Supports deployment in the cloud or locally
+> 📂 See our [Streamlit examples](examples-streamlit) for sample applications
 
 ---
 
